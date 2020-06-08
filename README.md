@@ -6,3 +6,5 @@ TouchOSC template for Norns
 Levels
 Reverb
 Compressor
+
+https://github.com/felart/Norns-TouchOSC/blob/master/IMG_0760.PNG
