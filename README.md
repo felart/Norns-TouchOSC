@@ -1,6 +1,8 @@
 # Norns-TouchOSC
 TouchOSC template for Norns
 
+https://github.com/felart/Norns-TouchOSC/blob/master/norns%20iphone%206.touchosc
+
 3 Pages:
 
 
